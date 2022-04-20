@@ -4,7 +4,7 @@ package it.meucci.fattoriale.gervasi;
  * 
  * @author genitori
  * 
- * @version 2
+ * @version 2 b1
  *
  */
 public class MainTest
